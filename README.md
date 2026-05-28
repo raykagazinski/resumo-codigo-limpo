@@ -2,7 +2,7 @@
 
 Recentemente li os capítulos 2, 4 e 5 do livro *Código Limpo*, do Robert C. Martin, e sinceramente foi uma leitura que mudou bastante a forma como eu vejo programação.
 
-Às vezes a gente acaba focando muito em “fazer funcionar” e esquece que outras pessoas (ou até nós mesmos no futuro) vão precisar entender aquele código depois.
+Às vezes a gente acaba focando muito em “fazer funcionar” e esquece que outras pessoas vão precisar entender aquele código depois.
 
 O livro bate muito nessa tecla: escrever código não é só programar, é também se comunicar.
 
