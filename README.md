@@ -26,6 +26,7 @@ Esse foi um dos capítulos que mais me chamou atenção. Muita gente pensa que m
 
 A ideia principal é escrever um código tão claro que os comentários sejam usados apenas quando realmente necessários.
 Como, por exemplo, explicar uma regra importante, alertar sobre algo delicado ou até mesmo documentar uma limitação técnica.
+
 Comentários óbvios ou desatualizados acabam mais atrapalhando do que ajudando..
 
 ---
@@ -33,11 +34,9 @@ Comentários óbvios ou desatualizados acabam mais atrapalhando do que ajudando.
 ## Capítulo 5 — Formatação
 
 Esse capítulo fala sobre organização visual do código.
-
 Pode parecer besteira no começo, mas um código bem organizado faz muita diferença no dia a dia.
 
 Espaçamento correto, identação, separação entre blocos e funções menores deixam tudo mais fácil de ler e manter.
-
 É igual ler um texto bagunçado: mesmo que o conteúdo seja bom, fica cansativo entender.
 
 ---
