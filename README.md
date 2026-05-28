@@ -25,9 +25,7 @@ Esse foi um dos capítulos que mais me chamou atenção. Muita gente pensa que m
  Muitas vezes, quando o código precisa de explicação demais, é porque ele já está confuso.
 
 A ideia principal é escrever um código tão claro que os comentários sejam usados apenas quando realmente necessários.
-
 Como, por exemplo, explicar uma regra importante, alertar sobre algo delicado ou até mesmo documentar uma limitação técnica.
-
 Comentários óbvios ou desatualizados acabam mais atrapalhando do que ajudando..
 
 ---
