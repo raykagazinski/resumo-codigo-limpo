@@ -12,12 +12,9 @@ O livro bate muito nessa tecla: escrever código não é só programar, é tamb�
 Esse capítulo mostra como escolher bons nomes faz diferença no código. Pode parecer um detalhe pequeno, mas um nome mal escolhido consegue deixar tudo mais confuso e difícil de entender.
 Quando usamos nomes claros em variáveis, funções e classes, fica muito mais fácil saber o que o código faz sem precisar ficar tentando interpretar linha por linha.
 
-Por exemplo, uma função chamada `buscarDadosDoUsuario()` deixa muito mais claro o que ela faz do que algo genérico ou abreviado.
-
-Pode parecer algo simples, mas esse cuidado ajuda bastante na organização e evita confusão no futuro.
+Por exemplo, uma função chamada `buscarDadosDoUsuario()` deixa muito mais claro o que ela faz do que algo genérico ou abreviado. Isso pode parecer algo simples, mas esse cuidado ajuda muito na organização e evita confusão no futuro.
 
 O autor também comenta sobre evitar abreviações desnecessárias, nomes muito genéricos e manter um padrão dentro do projeto.
-
 No final, isso melhora muito a leitura do código e facilita a vida de quem vai trabalhar nele depois.
 
 ---
