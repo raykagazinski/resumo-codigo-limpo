@@ -21,14 +21,10 @@ No final, isso melhora muito a leitura do código e facilita a vida de quem vai 
 
 ## Capítulo 4 — Comentários
 
-Esse foi um dos capítulos que mais me chamou atenção.
-
-A gente costuma pensar que muitos comentários deixam o código melhor, mas o livro mostra justamente o contrário em vários casos.
-
-Muitas vezes, quando o código precisa de explicação demais, é porque ele já está confuso.
+Esse foi um dos capítulos que mais me chamou atenção. Muita gente pensa que muitos comentários deixam o código melhor, mas o livro mostra justamente o contrário em vários casos.
+ Muitas vezes, quando o código precisa de explicação demais, é porque ele já está confuso.
 
 A ideia principal é escrever um código tão claro que os comentários sejam usados apenas quando realmente necessários.
-
 Como por exemplo:
 
 - explicar uma regra importante;
