@@ -1,7 +1,6 @@
 # 📚 Reflexões sobre o livro Código Limpo
 
 Recentemente li os capítulos 2, 4 e 5 do livro *Código Limpo*, do Robert C. Martin, e sinceramente foi uma leitura que mudou bastante a forma como eu vejo programação.
-
 Às vezes a gente acaba focando muito em “fazer funcionar” e esquece que outras pessoas vão precisar entender aquele código depois.
 
 O livro bate muito nessa tecla: escrever código não é só programar, é também se comunicar.
@@ -10,11 +9,8 @@ O livro bate muito nessa tecla: escrever código não é só programar, é tamb�
 
 ## Capítulo 2 — Nomes Significativos
 
-Esse capítulo mostra como escolher bons nomes faz diferença no código.
-
-Pode parecer um detalhe pequeno, mas um nome mal escolhido consegue deixar tudo mais confuso e difícil de entender.
-
-Quando usamos nomes claros em variáveis, funções e classes, fica muito mais fácil saber o que o código faz sem precisar ficar tentando interpretar linha por linha.
+Esse capítulo mostra como escolher bons nomes faz diferença no código. Pode parecer um detalhe pequeno, mas um nome mal escolhido consegue deixar tudo mais confuso e difícil de entender.
+#Quando usamos nomes claros em variáveis, funções e classes, fica muito mais fácil saber o que o código faz sem precisar ficar tentando interpretar linha por linha.
 
 Por exemplo, uma função chamada `buscarDadosDoUsuario()` deixa muito mais claro o que ela faz do que algo genérico ou abreviado.
 
