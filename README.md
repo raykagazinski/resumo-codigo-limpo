@@ -44,11 +44,8 @@ Espaçamento correto, identação, separação entre blocos e funções menores 
 ## Conclusão
 
 O que mais gostei nesses capítulos é que eles mostram que programar vai muito além de apenas fazer o sistema funcionar.
-
 Código limpo facilita manutenção, evita erros, melhora o trabalho em equipe e economiza tempo no futuro.
 
 Achei muito interessante perceber como pequenos detalhes fazem uma diferença enorme na qualidade do software.
-
 Com certeza é um livro que vale a pena para qualquer pessoa que esteja aprendendo programação ou queira evoluir como desenvolvedor.
 
-#Programação #CleanCode #DesenvolvimentoDeSoftware #Tecnologia #CódigoLimpo #Java
